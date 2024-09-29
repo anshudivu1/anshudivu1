@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**anshudivu1/anshudivu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫About me:
+🔭 I’m currently working on:
+Improving web and mobile applications by utilizing efficient, scalable technologies and best practices for better performance
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on:
+Fullstack projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning:
+Mobile App Development in iOS
+
+💬 Ask me about:
+ React, Node.js, Swift and any general software development questions.
+
+⚡ Fun fact:
+I love Creating Soultions and developing Web and mobile applications.
+
+
+
+# Tech Stack:
+**Frontend :** HTML, CSS, Tailwind CSS, React, JavaScript
+
+**Backend :** Node, Express.js
+
+**Database :** MongoDB, MySQL, OracleDB
+
+**UI/UXDesigns :** Figma
+
+**iOS Mobile App Development :** SwiftUI, UIKit Storyboard
+
+**Programming Languages :** Java, C++, Swift
