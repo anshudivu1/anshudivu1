@@ -10,9 +10,6 @@ Fullstack projects
 🌱 I’m currently learning:
 Mobile App Development in iOS
 
-💬 Ask me about:
- React, Node.js, Swift and any general software development questions.
-
 ⚡ Fun fact:
 I love Creating Soultions and developing Web and mobile applications.
 
