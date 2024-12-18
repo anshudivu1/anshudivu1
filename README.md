@@ -16,6 +16,9 @@ I love Creating Soultions and developing Web and mobile applications.
 
 
 # Tech Stack:
+
+**Web Development : NextJs** 
+
 **Frontend :** HTML, CSS, Tailwind CSS, React, JavaScript
 
 **Backend :** Node, Express.js
