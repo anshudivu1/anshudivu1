@@ -13,7 +13,8 @@ Mobile App Development in iOS
 ⚡ Fun fact:
 I love Creating Soultions and developing Web and mobile applications.
 
-
+💡 I’m passionate about:
+Solving problems using Data Structures and Algorithms.
 
 # Tech Stack:
 
