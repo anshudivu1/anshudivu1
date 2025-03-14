@@ -24,7 +24,7 @@ Solving problems using Data Structures and Algorithms.
 
 **Backend :** Node, Express.js
 
-**Database :** MongoDB, MySQL, OracleDB
+**Database :** MongoDB, MySQL, OracleDB, Firebase
 
 **UI/UXDesigns :** Figma
 
