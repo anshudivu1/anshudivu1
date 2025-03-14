@@ -7,7 +7,7 @@ Improving web and mobile applications by utilizing efficient, scalable technolog
 👯 I’m looking to collaborate on:
 Fullstack projects
 
-🌱 I’m currently learning:
+🌱 I’m experienced in:
 Mobile App Development in iOS
 
 ⚡ Fun fact:
